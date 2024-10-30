@@ -44,8 +44,8 @@ When you submit a pull request, the project maintainers will review your code. B
 
 If you encounter any issues or bugs, please open an issue in the repository. Provide as much detail as possible, including steps to reproduce the issue, and any relevant error messages.
 
-## Code of Conduct
+## Welcome to Project Eagle Eye!
 
-By participating in this project, you agree to abide by the [Code of Conduct](CODE_OF_CONDUCT.md). We strive to maintain a welcoming and inclusive environment for all contributors.
+I am excited to have you as part of my community. Your contributions play a vital role in enhancing the field of cybersecurity and threat intelligence. I appreciate your commitment to maintaining a positive and inclusive environment for all participants.
 
-Thank you for your contributions to Project Eagle Eye! Together, we can make a significant impact in the field of cybersecurity and threat intelligence.
+Thank you for your contributions to Project Eagle Eye! Together, we can make a significant impact in the world of cybersecurity.
